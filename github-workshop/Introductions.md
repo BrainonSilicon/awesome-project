@@ -27,6 +27,6 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 18. Chicken
 19. Orange 🍊 
 20. 
-21. 
+21. Spicy beef jery
 22. 
 
