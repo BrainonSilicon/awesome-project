@@ -26,7 +26,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 17. 
 18. Chicken
 19. Orange 🍊 
-20. 
+20. Ham
 21. 
 22. 
 
